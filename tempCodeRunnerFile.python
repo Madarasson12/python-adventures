@@ -1,0 +1,13 @@
+#MADLIBS 
+
+adjective1 = input("enter a adjective ")
+noun1 = input("enter a noun")
+adjective2 = input("enter a adjective ")
+verb1 = input ("enter a verb")
+adjective3 = input("enter a adjective ")
+
+print(f"yesterday i went to a  {adjective1} zoo")
+print(f"in the exibit i saw {noun1}")
+print(f"{noun1}was {adjective2}and {verb1}")
+print(f"i was{adjective3}")
+
